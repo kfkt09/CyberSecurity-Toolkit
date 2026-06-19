@@ -28,18 +28,7 @@ A Python-based cybersecurity reconnaissance toolkit with GUI that performs netwo
 
 ---
 
-## 🖼️ Screenshots
 
-### 📌 Main Interface
-![Main GUI](screenshots/gui.png)
-
-### 📌 Network Scan Results
-![Scan Results](screenshots/scan.png)
-
-### 📌 PDF Report Output
-![PDF Report](screenshots/pdf.png)
-
----
 
 ## ⚙️ Installation
 
